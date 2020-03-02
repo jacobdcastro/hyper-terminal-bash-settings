@@ -1,5 +1,5 @@
 # hyper-terminal-bash-settings
-A config file to be able to use Git Bash on Hyper terminal (even on Windows).
+This is a default config file to allow Hyper users to use Git Bash (even on Windows). This config is specifically for the Hyper Terminal! If you don't have it, you can [download Hyper here](https://hyper.is/)! 
 
 _Note_: You must have Git installed on your machine! If you do not, you can [install Git here](https://git-scm.com/downloads).
 
