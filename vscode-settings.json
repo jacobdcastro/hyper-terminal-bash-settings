@@ -1,0 +1,75 @@
+{
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "editor.minimap.enabled": true,
+  "window.zoomLevel": 0,
+  "workbench.editor.openPositioning": "right",
+  "explorer.confirmDragAndDrop": false,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "workbench.panel.defaultLocation": "right",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.wordWrap": "on",
+  "editor.lineHeight": 17,
+  "workbench.colorCustomizations": {
+    "activityBar.foreground": "#911dc7",
+    "activityBar.background": "#1c1c1c",
+    "activityBarBadge.background": "#9220c7",
+    "activityBar.dropBackground": "#ff0000",
+    "statusBar.background": "#7e20aa",
+    "statusBar.foreground": "#ffffff",
+    "sideBar.background": "#1d1d1d",
+    "sideBarSectionHeader.background": "#5a1779",
+    "editorCursor.foreground": "#aaaaaa",
+    "tab.activeBorder": "#7e20aa",
+    "editor.background": "#222222",
+    "terminal.background": "#000000",
+    "titleBar.activeBackground": "#171717",
+    "titleBar.activeForeground": "#aaaaaa",
+    "titleBar.border": "#7e20aa"
+  },
+  "editor.minimap.showSlider": "always",
+  "breadcrumbs.enabled": true,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "explorer.confirmDelete": false,
+  "files.watcherExclude": {
+    "**/node_modules/*/**": false
+  },
+  "terminal.integrated.fontSize": 12,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.dragAndDrop": false,
+  "editor.hover.delay": 500,
+  "editor.letterSpacing": 0.7,
+  "editor.cursorWidth": 2,
+  "editor.fontLigatures": true,
+  "git.autofetch": true,
+  "workbench.iconTheme": "vscode-icons",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "One Dark Pro",
+  "prettier.trailingComma": "es5",
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "files.eol": "\n",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorBlinking": "smooth",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.suggestLineHeight": null,
+  "tabnine.experimentalAutoImports": 0
+}
